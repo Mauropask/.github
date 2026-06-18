@@ -7,7 +7,7 @@ Questa e' la casa di tutti i progetti che necessitano di Version Control creati 
 ## Contributing
 
 Per contribuire ai progetti della CIDS, consulta i file `CONTRIBUTING.md` presenti in ciascuna repository.
-Ricordiamo che tutte le attivita' della CIDS sono regolate dal [Mainfesto di Comunita'](https://doi.org/10.5281/zenodo.15092657).
+Ricordiamo che tutte le attivita' della CIDS sono regolate dal [Manifesto di Comunita'](https://doi.org/10.5281/zenodo.15092657).
 
 Ogni progetto ha il suo Code of Conduct - chiediamo che sia rispettato in tutti gli spazi comuni.
 
